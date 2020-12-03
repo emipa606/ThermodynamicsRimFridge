@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Thermodynamics-RimFridge Patch</name>
+  <packageId>Mlie.ThermodynamicsRimFridge</packageId>
+  <author>Mlie</author>
+  <url>https://github.com/emipa606/ThermodynamicsRimFridge</url>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>dame.thermocore</packageId>
+      <displayName>[D] Thermodynamics - Core</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2110964897</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>dame.hotmeals</packageId>
+      <displayName>[D] Thermodynamics - Hot Meals</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2110968173</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>rimfridge.kv.rw</packageId>
+      <displayName>[KV] RimFridge</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/1180721235</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>dame.thermocore</li>
+    <li>dame.hotmeals</li>
+    <li>rimfridge.kv.rw</li>
+  </loadAfter>
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+
+Compatibility between:
+
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2110964897][D] Thermodynamics - Core[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2110968173][D] Thermodynamics - Hot Meals[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1180721235][KV] RimFridge[/url]
+[/list]
+
+Makes food inside fridges from RimFridge change temperature towards the current Fridge-temperature instead of the room-temperature.
+
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/ThermodynamicsRimFridge][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
+	</description>
+</ModMetaData>
