@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Thermodynamics-RimFridge Patch</name>
   <packageId>Mlie.ThermodynamicsRimFridge</packageId>
@@ -12,13 +12,13 @@
   <modDependencies>
     <li>
       <packageId>dame.thermocore</packageId>
-      <displayName>[D] Thermodynamics - Core</displayName>
-      <steamWorkshopUrl>steam://url/CommunityFilePage/2110964897</steamWorkshopUrl>
+      <displayName>Thermodynamics - Core (Forked)</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2558276867</steamWorkshopUrl>
     </li>
     <li>
       <packageId>dame.hotmeals</packageId>
-      <displayName>[D] Thermodynamics - Hot Meals</displayName>
-      <steamWorkshopUrl>steam://url/CommunityFilePage/2110968173</steamWorkshopUrl>
+      <displayName>Thermodynamics - Hot Meals (Forked)</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2558277446</steamWorkshopUrl>
     </li>
     <li>
       <packageId>rimfridge.kv.rw</packageId>
@@ -31,13 +31,13 @@
     <li>dame.hotmeals</li>
     <li>rimfridge.kv.rw</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 
 Compatibility between:
 
 [list]
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2110964897][D] Thermodynamics - Core[/url]
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2110968173][D] Thermodynamics - Hot Meals[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2558276867]Thermodynamics - Core (Forked)[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2558277446]Thermodynamics - Hot Meals (Forked)[/url]
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1180721235][KV] RimFridge[/url]
 [/list]
 
@@ -47,15 +47,19 @@ Makes food inside fridges from RimFridge change temperature towards the current 
 	[tr]
 		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
 		[td][url=https://github.com/emipa606/ThermodynamicsRimFridge][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
-	[/tr]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/h5VwTNL.png[/img][/td]
+    [/tr]
 [/table]
 
-[img]https://i.imgur.com/pgjQLXV.png[/img]
+[img]https://i.imgur.com/O0IIlYj.png[/img]
 Since modding is just a hobby for me I expect no donations to keep modding. If you still want to show your support you can gift me anything from my [url=https://store.steampowered.com/wishlist/id/Mlie]Wishlist[/url] or buy me a cup of tea.
 
-[url=https://ko-fi.com/G2G55DDYD][img]https://i.ibb.co/VWJJb3w/Support-Me-dark-2x.png[/img][/url]
+[url=https://ko-fi.com/G2G55DDYD][img]https://i.imgur.com/Utx6OIH.png[/img][/url]
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -63,5 +67,7 @@ Since modding is just a hobby for me I expect no donations to keep modding. If y
 [*] For best support, please use the Discord-channel for error-reporting.
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
-[/list]</description>
+[/list]
+
+</description>
 </ModMetaData>
